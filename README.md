@@ -10,3 +10,5 @@ Jupyter notebook of a quantum full adder in Qiskit.  Examples include two consta
 **Outputs:** q2=Sum(A+B) q3=Carry Out
 
 Based on circuit diagram from [Quantum Inspire Code example: Quantum full adder](https://www.quantum-inspire.com/kbase/full-adder/)
+
+For info on installing Anaconda Python distribution (with Jupyter Notebook) & Qiskit see [this video](https://youtu.be/M4EkW4VwhcI).
