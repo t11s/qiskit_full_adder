@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="http://t11s.com/blamebutt.jpg" width="50%" />
+</p>
 ![Quantum Full Adder Circuit](fa.jpg)
 # Quantum Full Adder in Qiskit
 
